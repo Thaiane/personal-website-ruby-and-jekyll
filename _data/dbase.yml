@@ -4,7 +4,7 @@
 
 # Category: Website.
 website:
-  title: Typing
+  title: Thai Braga
   description: Typing - A Theme for Jekyll
   launch: 2016
   avatar: typing.svg
@@ -27,11 +27,11 @@ website:
   strings:
     sidebar:
       title: |
-        Hey, <br> I'm Typing.
+        Olá!<br> Sou a Thai.
       links:
         home: Hello
     footer:
-      message: Simplicity is fashionable.
+      message: =)
     comments:
       title: Leave a comment on this post
       disable: The comment for this post is disabled.
@@ -39,9 +39,9 @@ website:
     contact:
       btn-send: Go, message!
       placeholder:
-        name: Your full name
-        email: Your email
-        message: What would you like to say?
+        name: Nome
+        email: E-mail
+        message: Mensagem
     resume:
       btnprint: Print
     postlist:
@@ -71,7 +71,7 @@ website:
 
 # Category: User Data.
 userdata:
-  email: youremail@domain.com
+  email: thaianefbraga@gmail.com
   twitter: "@my_twitter"
   disqus:
     username:
@@ -83,17 +83,17 @@ userdata:
       - title: GitHub
         id: github
         icon: fa-github
-        url: https://github.com/williamcanin/typing-theme
-      - title: Twitter
-        id: twitter
-        icon: fa-twitter
-        url: https://github.com/williamcanin/typing-theme
+        url: https://github.com/Thaiane
+      - title: Facebook
+        id: facebook
+        icon: fa-facebook-square
+        url: https://www.facebook.com/thaiane.thaibraga
       - title: Google Plus
         id: gplus
         icon: fa-google-plus
-        url: https://github.com/williamcanin/typing-theme
+        url: https://plus.google.com/117444969448307639696?hl=pt-BR
       - title: LinkedIn
         id: linkedin
         icon: fa-linkedin
-        url: https://github.com/williamcanin/typing-theme
+        url: https://www.linkedin.com/in/thaianebraga/
 
