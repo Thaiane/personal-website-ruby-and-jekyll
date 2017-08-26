@@ -23,7 +23,7 @@ website:
       id:  # tracking id, e.g. "UA-000000-01"
       events: true # Use: true | false . Events Google Analytics
   author:
-    image: typing.svg
+    image: thai.jpg
   strings:
     sidebar:
       title: |
