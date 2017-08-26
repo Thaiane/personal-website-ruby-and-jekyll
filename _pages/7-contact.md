@@ -1,6 +1,6 @@
 ---
 layout: contact
-title: Contact
+title: Contato
 
 # Enable / Disable events Google Analytics for this link page.
 ga_event: false
@@ -19,4 +19,4 @@ script: [contact.js]
 permalink: /contact/
 ---
 
-Here you can send me an email to ask questions or contact me for service.
+Envie-me um e-mail para conversarmos, trocarmos experiências e construirmos conhecimento juntos. Será um prazer conhecer novas pessoas.

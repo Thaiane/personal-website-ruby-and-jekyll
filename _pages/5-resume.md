@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Resume
+title: Sobre mim
 sitemap:
   priority: 0.7
   changefreq: 'monthly'
@@ -19,25 +19,25 @@ menu: true
 btnprint: true
 
 excerpt: |
-    This is my resume. On this page you can print using the browser shortcut (Ctrl + P) or using the 'Print' Button as well.
+    Há um pouco mais sobre minhas experiências e objetivos logo abaixo. Caso tenha ainda alguma dúvida ou curiosidade, envie-me um e-mail que será um prazer conversarmos. =)
 
 tcontents:
   enable: true
-  title: Table Of Contents
+  title: Direto ao ponto...
   links:
-    - name: Personal Data
+    - name: Informações Pessoais
       id: "#personal-data"
-    - name: Biography
+    - name: Biografia
       id: "#biography"
-    - name: Objetive
+    - name: Objetivos
       id: "#objetive"      
-    - name: Education
+    - name: Educação
       id: "#education"
-    - name: Skills
+    - name: Habilidades
       id: "#skills"
-    - name: Projects
+    - name: Projetos
       id: "#projects"
-    - name: Languages
+    - name: Idiomas
       id: "#languages"   
 
 published: true
@@ -48,30 +48,28 @@ script: [resume.js]
 permalink: /resume/
 ---
 
-#  Typing
-### A theme for Jekyll
-
 <br>
 
-## Personal Data
+## Informações pessoais
 
-**Nationality**: Brazilian   
-**Date of Birth**: 2017/04/05   
-**Marital Status**: Single   
-**Home Address**: Lorem, Lorem Ipsum, 789 / Dolor  
-**Country**: Brazil   
-**Province**: Lorem Ipsum/LI   
-**Telephone**: +55 011 1234 5678   
-**Email**: your-email@example.com   
-**Website**: [my-web-site.domain](http://williamcanin.com)   
+**Nome**: Thaiane Braga     
+**Data de Nascimento**: 17/02/1992   
+**Reside em**: Brasília, Brasil  
+**Formação**: Engenharia de Software pela Universidade de Brasília   
+**Telefone**: +55 061 99315 2512   
+**Email**: thaianefbraga@gmail.com  
+**Linkedin**: [thaianebraga](https://www.linkedin.com/in/thaianebraga/)   
 
 
 ## Biography
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate aliquid, alias voluptatibus vel eligendi eveniet. Quas rem, repellendus deleniti nostrum minima delectus maxime fugiat, voluptates modi, laudantium, natus eligendi <sequi class="Lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At non quibusdam repellat commodi veniam ab voluptate odio recusandae earum, magnam dolore architecto dolorem. Sint dolor deserunt, molestiae soluta, consequatur non!</sequi>
+Sou a Thaiane Braga, engenheira de software formada pela Universidade de Brasília (1/2016). Atualmente estou trabalhando na gerência de projetos de software na área de eleições online.
 
+Gosto de programar em Ruby on Rails, Java, C++, Android e outras linguagens de programação similares. Tenho afinidade também com qualidade de software, modelagem de processos, requisitos de software (tradicional ou ágil), DevOps e software livre.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi unde earum itaque saepe voluptatum distinctio soluta provident repudiandae mollitia similique repellat eum incidunt quo, tenetur quasi voluptatem sed animi repellendus.
+Geralmente realizo apresentações gratuitas (sempre que posso) sobre gestão projetos ou outros assuntos similares na Universidade de Brasília. Participo também do Aprendendo Juntas (grupo sobre garotas na programação de software) e Akan (aplicativo em Android e IOs sobre transparência dos gastos públicos do governo brasileiro).
+
+Quero aprender mais sobre gerenciamento de projetos e desenvolvimento de software, principalmente utilizando metodologias ágeis. 
 
 ## Objetive
 
