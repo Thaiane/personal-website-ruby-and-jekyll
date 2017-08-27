@@ -33,11 +33,11 @@ website:
     footer:
       message: =)
     comments:
-      title: Leave a comment on this post
-      disable: The comment for this post is disabled.
+      title: Deixe seu comentário.
+      disable: TComentários desabilitados.
     # The Contact, uses the Formspree service. Need to register for the service.
     contact:
-      btn-send: Go, message!
+      btn-send: Enviar
       placeholder:
         name: Nome
         email: E-mail
