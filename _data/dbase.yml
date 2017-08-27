@@ -48,10 +48,10 @@ website:
       continue: Continue
     post:
       author:
-        title: Thaiane Braga
-        name: Typing Theme
+        title: Engenheira de Software
+        name: Thaiane Braga
         bio: |
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora non aut eos voluptas debitis unde impedit aliquid ipsa.
+          Apaixonada por tudo que se refere ao processo de desenvolvimento de software e com uma queda especial por metodologia ágil. Engenheira de Software formada, mas eterna estudante.
     search:
       input:
         placeholder: ['Search in','article(s)']
@@ -59,15 +59,15 @@ website:
         onblur: ['Search','article(s)']
         notfound: "Oh heavens, no results :("
     share_social:
-      title: "Share"
+      title: "Compartilhe"
       facebook:
-        title: "Share on Facebook"
+        title: "Facebook"
       twitter:
-        title: "Share on Twitter"
+        title: "Twitter"
       linkedin:
-        title: "Share on LinkedIn"
+        title: "LinkedIn"
       gplus:
-        title: "Share on Google Plus"
+        title: "Google Plus"
 
 # Category: User Data.
 userdata:
@@ -77,7 +77,7 @@ userdata:
     username:
   # You can add at most 4 social.
   socials:
-    title: Follow Me!
+    title: Conecte-se comigo!
     ga_event: true # Google Analytics Event (Hit). Usage: true | false
     links:
       - title: GitHub

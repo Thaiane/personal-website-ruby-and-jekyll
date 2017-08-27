@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Projetos
 sitemap:
   priority: 0.7
   changefreq: 'monthly'

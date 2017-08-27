@@ -1,6 +1,6 @@
 ---
 layout: search
-title: Search
+title: Buscar
 
 # Enable / Disable events Google Analytics for this link page.
 ga_event: false
@@ -19,5 +19,5 @@ script: [search.js]
 permalink: /blog/search/
 ---
 
-Type something in the field to perform a search for an article in the Blog. Good hunting!
+Pesquise por uma palavra-chave, tag ou artigo. Se tiver alguma sugestão de conteúdo, avise-me.
 
