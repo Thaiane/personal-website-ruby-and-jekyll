@@ -16,29 +16,10 @@ icon: fa-file-text-o
 menu: true
 
 # Enable / Disable button for print resume.
-btnprint: true
+btnprint: false
 
 excerpt: |
-    Há um pouco mais sobre minhas experiências e objetivos logo abaixo. 
-
-tcontents:
-  enable: true
-  title: Direto ao ponto...
-  links:
-    - name: Informações Pessoais
-      id: "#personal-data"
-    - name: Biografia
-      id: "#biography"
-    - name: Objetivos
-      id: "#objetive"      
-    - name: Educação
-      id: "#education"
-    - name: Habilidades
-      id: "#skills"
-    - name: Experiências
-      id: "#projects"
-    - name: Idiomas
-      id: "#languages"   
+    Há um pouco mais sobre minhas experiências e objetivos logo abaixo.    
 
 published: true
 
@@ -107,9 +88,9 @@ Alguns outros certificado em:  [thaianebraga](https://www.linkedin.com/in/thaian
 
 
 <br>
-## Habilidades
+## Conhecimentos
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil magni incidunt commodi quod libero atque architecto, vero est unde, qui inventore assumenda quaerat perferendis ab reprehenderit quis excepturi dolores, labore.
+Dentro da Engenharia de Software, tenho interesse principal nas áreas de Desenvolvimento e Gestão de Projetos.
 
 **Desenvolvimento:**   
 
@@ -143,21 +124,68 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil magni incidunt c
 {% label Latex|16px %}
 {% label Lean Startup|16px %}
 
-
+<br>
 ## Experiências
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus ab odit sed maxime possimus ducimus doloribus minima dolore quaerat, consequatur repellat eius saepe, nisi architecto nemo animi, et quidem. At!
+### Scrum Product Owner / Coordenadora de Projetos
 
-* [Lorem](http://williamcanin.github.io/typing-theme){:target="_blank"} - Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-* [Lorem](http://williamcanin.github.io/typing-theme){:target="_blank"} - Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+*Scytl Innovating Democracy*
 
-### Lorem Ipsum
+*August 2013 – Agora*
 
-*Lorem ipsum dolor sit amet*
+Realizo atividades voltadas para gestão de projetos, modelagem de processos, manipulação de banco de dados, análise de requisitos, qualidade de software, testes automatizados, e ferramentas como Git (version control system), Bitbucket, Atlassian JIRA Agile, Microsoft Visual Studio, Microsoft Azure e OWASP (Open Web Application Security Project).
 
-*August 2014 – December 2015*
+Aplicação de conhecimentos ágeis como os valores e práticas. Atuo, nessa visão de gestão de projetos, como Product Owner. Auxílio na definição do produto da empresa junto com os seus representantes.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut architecto quis sit in qui, omnis repudiandae nam excepturi veritatis enim expedita voluptates repellat. Ipsam quae tempore nihil, quos voluptates commodi.
+Além disso, estamos aplicando metodologia ágil. Sendo assim, utiliza-se ferramentas como Quadro de Conhecimento, Quadro de Retrospectiva, Planning Poker, EVM (Earned Value Management) por horas e pontos de história, incluíndo gráficos de valor agregado, real e planejado por projeto em planilhas, Cronograma, Sprints com tempo fixo, Meta de Sprint, Kanban, To Do List da equipe e, essencialmente, valores ágeis. 
+
+O time está em evolução e as práticas e ferramentas se alteram conforme o tempo.
+<br>
+
+### Scrum Master / Analista de Desenvolvimento
+
+*Scytl Innovating Democracy*
+
+*Outubro 2015 – Agosto 2016*
+
+Atuei em qualidade de software, projeto e processo.
+
+Oportunidade em auxiliar na melhoria contínua da qualidade de software de projetos de eleição online, onde exige alto nível de qualidade e precisão de resultados. Além disso, dei suporte na área de análise de requisitos, melhoria de processos (método PDCA), padronização de ferramentas de qualidade de software e de processos.
+
+Junto com o time scrum, obtive oportunidade de auxiliar na aplicação e obter mais conhecimentos sobre o framework Scrum. Com isso, auxiliei na adaptação do Scrum para a empresa de forma a atender os requisitos internos e externos do mercado de trabalho brasileiro.  
+<br>
+
+### Estágio em Qualidade de Software
+
+*Scytl Innovating Democracy*
+
+*Maio 2015 – Outubro 2015*
+
+Atuei em qualidade de software como estagiária, onde obtive oportunidade de aprender mais sobre ferramentas e testes voltados para C#, padrão MVC, Javascript, Typescript e Angular. Entre os testes e ferramentas de maiores destaques, é importante ressaltar maiores aprendizados em: testes unitários, covertura de testes, integração contínua, testes de aceitação com usuário em ambiente de homologação, Microsoft Azure, Bitbucket, Agile JIRA, testes de desempenho, testes de segurança, gestão de testes/bugs/defeitos e teste de funcionalidade (manual ou não) para verificação do atendimento dos macro requisitos. 
+<br>
+
+### Engenheira de Software
+
+*LADES - Universidade de Brasília*
+
+*Janeiro 2015 – Mail 2015*
+
+Desenvolvedora bolsista para produção de um sistema piloto cujo objetivo é a análise dos dados trafegados em rede de comunicação para fins de defesa cibernética. Coordenador: Profº. Luiz Laranjeira. 
+<br>
+
+### Scrum Master / Desenvolvedora Ruby on Rails 
+
+*LAPPIS - Universidade de Brasília*
+
+*Setembro 2013 – Dezembro 2014*
+
+Desenvolvedora web no Laboratório Avançado de Pesquisa, Produção e Inovação de Software (LAPPIS).
+
+Durante um ano, o time de desenvolvimento (incluindo a mim) trabalhamos com softwares públicos e portal de transparência de dados do governo brasileiro. A parceria entre Universidade de Brasília e Governo Brasileiro rendeu frutos para ambos.
+
+Como estudante, tive oportunidade de atuar com tecnologias de ponta e aprender mais sobre ferramentas e práticas. Entre elas: Agile Methodology, Earned Value Management (EVM), eXtreme Programming (XP), Kanban, Planning Poker, Quadro de conhecimento, Quadro de pareamento, Quadro de retrospectiva, daily meeting, weekly meeting entre projetos, Scrum, Android, Ruby on Rails, Python, Jenkins, Travis, GitHub, GitLab, Git, Virtuals Machines, Maven, Testes unitários, Testes de aceitação de usuário em ambiente de homologação, integração contínua, gestão de projetos utilizando metodologia ágil, levantamento de requisitos utilizando Histórias de Usuário, além da aplicação e geração de conhecimento para as áreas de segurança no governo brasileiro.
+
+A contribuição com o laboratório da Universidade de Brasília não se restringe aos alunos da universidade. Por esse motivo, mesmo após formar, contribuo e continuo a contribuir com a disseminação dos conhecimentos por meio de palestras e eventos de Software Livre.
 <br>
 <br>
 ## Idiomas
