@@ -9,7 +9,7 @@ ga_event: false
 icon: fa-edit
 
 # Strings used for posts counter message
-msg_qtd: ['There are','posts in total.']
+msg_qtd: ['Há','textos publicados.']
 
 # Enable / Disable 'Tag' and 'Search' buttons in the post listing layout.
 buttons: false
@@ -25,4 +25,4 @@ script: [postlist.js]
 permalink: /blog/
 ---
 
-What follows is a list of weblog posts from as early as {{ site.debutyear }}. I hope you enjoy
+Agradeço a leitura desde já. :blush:

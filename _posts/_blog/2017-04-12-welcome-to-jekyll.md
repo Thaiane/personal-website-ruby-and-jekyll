@@ -4,15 +4,15 @@ title:  "Welcome to Jekyll!"
 date:   2017-04-12 05:16:01 -0300 
 categories: blog
 tags: ['example','welcome','jekyll', 'typing', 'responsive', 'simple']
-published: true
+published: false
 comments: true 
 excerpted: |
     You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site ...
 day_quote:
-    title: "Quote Day"
+    title: "Pensamento do dia"
     content: |
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-        (Mr. Lorem)
+        "Ninguém consegue assobiar uma sinfonia, é necessária uma orquestra inteira” 
+        (Luccockm)
 
 # Does not change and does not remove 'script' variables
 script: [post.js]

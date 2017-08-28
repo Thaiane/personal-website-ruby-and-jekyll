@@ -34,7 +34,7 @@ website:
       message: =)
     comments:
       title: Deixe seu comentário.
-      disable: TComentários desabilitados.
+      disable: Comentários desabilitados.
     # The Contact, uses the Formspree service. Need to register for the service.
     contact:
       btn-send: Enviar
