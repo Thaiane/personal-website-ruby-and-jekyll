@@ -1,1 +1,35 @@
-Curso do Udemy
+---
+layout: post
+title:  "[Udemy] Ruby on Rails"
+date:   2017-09-28 21:34:01 -0300 
+categories: blog
+tags: ['ruby','rails','ruby on rails', 'linguagem']
+published: true
+comments: true 
+excerpted: |
+    Resumo e anotações do curso de Ruby on Rails do Udemy...
+day_quote:
+    title: "Pensamento do dia"
+    content: |
+        "Ninguém consegue assobiar uma sinfonia, é necessária uma orquestra inteira” 
+        (Luccockm)
+# Does not change and does not remove 'script' variables
+script: [post.js]
+---
+
+* Do not remove this line (it will not be displayed)
+{: toc}
+
+Texto
+
+
+
+
+
+
+
+
+Agradeço a leitura. :blush:
+
+
+
