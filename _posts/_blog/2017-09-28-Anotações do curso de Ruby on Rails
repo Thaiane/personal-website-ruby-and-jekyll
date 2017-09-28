@@ -11,8 +11,7 @@ excerpted: |
 day_quote:
     title: "Pensamento do dia"
     content: |
-        "Ninguém consegue assobiar uma sinfonia, é necessária uma orquestra inteira” 
-        (Luccockm)
+        "Nenhum obstáculo é tão grande se sua vontade de vencer for maior”
 # Does not change and does not remove 'script' variables
 script: [post.js]
 ---
@@ -20,7 +19,21 @@ script: [post.js]
 * Do not remove this line (it will not be displayed)
 {: toc}
 
-Texto
+Segue as anotações e resumos do curso completo de Ruby on Rails do Udemy. Espero que ajude. =)
+
+# Módulo 01 - Conceitos Básicos do ruby on Rails
+
+# Módulo 02 - Configurando um novo ambiente de desenvolvimento
+(em andamento)
+
+# Módulo 03 - Desenvolvendo uma aplicação do início ao fim
+(em andamento)
+
+# Módulo 04 - Configurando um VPS
+(em andamento)
+
+# Módulo 05 - Assuntos Extras não abordados nos módulos anteriores
+(em andamento)
 
 
 
