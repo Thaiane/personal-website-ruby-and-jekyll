@@ -34,7 +34,10 @@ Segue as anotações e resumos do curso completo de Ruby on Rails do Udemy. Espe
 * O Bundler é uma gem que gerencia, instala e controla as dependências de outras gems. Saiba mais em [bundler.io](http://bundler.io/){:target="_blank"}.
 * Para usar o bundle, crie um arquivo chamado Gemfile e adicione o repositório no início do arquivo: `source 'https://rubygems.org'`. Em seguida, insira as gems que deseja instala e suas versões. Para executar basta usar o `bundle exec`
 * Utilize `rails new myapp` para criar uma aplicação rails na versão da sua máquina e `rails server` para subir a aplicação.
-
+* Use `ruby meuarquivo.rb` para rodar seu programa em ruby.
+* No terminal, uso `irb` para acessar o o shell interativo do ruby.
+* No irb, uso o atributo.methods ou atributo.(aperta tab). Dessa forma será mostrado os métodos possíveis.
+* Tudo é objeto no ruby.
 
 # Módulo 02 - Configurando um novo ambiente de desenvolvimento
 (em andamento)
