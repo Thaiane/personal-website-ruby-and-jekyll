@@ -22,6 +22,19 @@ script: [post.js]
 Segue as anotações e resumos do curso completo de Ruby on Rails do Udemy. Espero que ajude. =)
 
 # Módulo 01 - Conceitos Básicos do ruby on Rails
+## ´Como tudo começou? 
+* O Ruby é uma linguagem de programação interpretada multiparadigma, de tipagem dinâmica e forte, com gerenciamento de memória automático, originalmente planejada e desenvolvida no Japão em 1995, por Yukihiro Matsumoto. Para saber mais sobre a linguagem, confira o site e documentação oficial [ruby-lang.org](https://www.ruby-lang.org/pt/){:target="_blank"}
+* O Ruby on Rails é um framework que visa aumentar a velocidade e facilidade no desenvolvimento de sites, fazendo uso de boas práticas como DRY (Don't Repeat Yourself) e CoC (convention over configuration). Para saber mais sobre o framework, confira o site e documentação oficial [rubyonrails.org](http://rubyonrails.org/){:target="_blank"}
+
+* Gems são bibliotecas reutilizáveis. Saiba mais na documentação oficial [rubygems.org](https://rubygems.org/){:target="_blank"}
+
+* Utilizaremos o Cluoud 9 como IDE online. Acesse em  [c9.io](https://c9.io){:target="_blank"}
+* Use `gem install cpf_utils` para instalar uma gem e `gem uninstall cpf_utils` para remover.
+* Utilize `gem cluanup` para limpar versões de gems antigas.
+* O Bundler é uma gem que gerencia, instala e controla as dependências de outras gems. Saiba mais em [bundler.io](http://bundler.io/){:target="_blank"}.
+* Para usar  obundle, crie um arquivo chamado Gemfile e adicione o repositório no início do arquivo: `source 'https://rubygems.org'`. Em seguida, insira as gems que deseja instala e suas versões. Para executar basta usar o `bundle exec`
+
+
 
 # Módulo 02 - Configurando um novo ambiente de desenvolvimento
 (em andamento)
