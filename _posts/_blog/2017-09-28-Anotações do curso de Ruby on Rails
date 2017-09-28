@@ -32,8 +32,8 @@ Segue as anotações e resumos do curso completo de Ruby on Rails do Udemy. Espe
 * Use `gem install cpf_utils` para instalar uma gem e `gem uninstall cpf_utils` para remover.
 * Utilize `gem cluanup` para limpar versões de gems antigas.
 * O Bundler é uma gem que gerencia, instala e controla as dependências de outras gems. Saiba mais em [bundler.io](http://bundler.io/){:target="_blank"}.
-* Para usar  obundle, crie um arquivo chamado Gemfile e adicione o repositório no início do arquivo: `source 'https://rubygems.org'`. Em seguida, insira as gems que deseja instala e suas versões. Para executar basta usar o `bundle exec`
-
+* Para usar o bundle, crie um arquivo chamado Gemfile e adicione o repositório no início do arquivo: `source 'https://rubygems.org'`. Em seguida, insira as gems que deseja instala e suas versões. Para executar basta usar o `bundle exec`
+* Utilize `rails new myapp` para criar uma aplicação rails na versão da sua máquina e `rails server` para subir a aplicação.
 
 
 # Módulo 02 - Configurando um novo ambiente de desenvolvimento
