@@ -43,6 +43,7 @@ Segue as anotações e resumos do curso completo de Ruby on Rails do Udemy. Espe
 * "String".split retorna um vetor.
 * ["vetor"].join( ) retorna uma string.
 * Range (1..10) -> vai de 1 a 10, já o (1...10) vai de 1 a 9.
+* @nome é variável de instância e nome é variável global.
 
 # Módulo 02 - Configurando um novo ambiente de desenvolvimento
 (em andamento)
