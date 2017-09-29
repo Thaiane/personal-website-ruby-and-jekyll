@@ -40,6 +40,8 @@ Segue as anotações e resumos do curso completo de Ruby on Rails do Udemy. Espe
 * Tudo é objeto no ruby.
 * O Vector ARGV pode ser usado `x = ARGV` irá considerar os dados de entrada no stdin como entradas para o vetor. 
 * para juntar um elemento de outro hash no hash você pode usar o `hash.merge!({"c"=>4})`.Ele irá modificar o próprio merge.
+* "String".split retorna um vetor.
+* ["vetor"].join( ) retorna uma string.
 
 # Módulo 02 - Configurando um novo ambiente de desenvolvimento
 (em andamento)
