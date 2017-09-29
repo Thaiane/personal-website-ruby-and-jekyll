@@ -48,7 +48,7 @@ Segue as anotações e resumos do curso completo de Ruby on Rails do Udemy. Espe
 * Módulos são similares a classes, armazezam métodos, constantes e outras classes ou módulos. Mas não pode criar objetivos ou herança. São boas opções para definir constantes ou namespace (espaço de nome).
 * Mixins são formas de importar constantes ou métodos para uma classe. Para isso, basta dar require e inlude dos módulos na classe.
 * Gem faker gera nomes falsos para testes.
-* No rails, as tabelas ficam no plural.
+* No rails, as tabelas ficam no plural e o modelo (model) no singular).
 
 
 # Módulo 02 - Configurando um novo ambiente de desenvolvimento
