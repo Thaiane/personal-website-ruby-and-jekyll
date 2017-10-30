@@ -22,6 +22,10 @@ script: [post.js]
 Segue as anotações e resumos do curso completo de Ruby on Rails do Udemy. Espero que ajude. =)
 
 # Curso 01 - Primeiros passos com Java
+* Java antes era chamado Oka;
+* Java é linguagem compilada;
+* Java utiliza JVM que é uma virtual machine capaz de traduzir a linguagem para bytes code.
+
 
 
 
