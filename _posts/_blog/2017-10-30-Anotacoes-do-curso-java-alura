@@ -28,6 +28,8 @@ Segue as anotações e resumos do curso completo de Ruby on Rails do Udemy. Espe
 * Surgiu em 1994 e evoluiu muito com o tempo;
 * É orientada a objetos;
 * Tipos: int, double, float, char e String;
+* Da para usar long para aumentar a capacidade da variável int;
+
 
 
 
