@@ -29,6 +29,9 @@ Segue as anotações e resumos do curso completo de Ruby on Rails do Udemy. Espe
 * É orientada a objetos;
 * Tipos: int, long, double, float, char e String;
 * Base do encapsulamento: no Java precisa ter gets e sets para classes com atributos privates, quando necessário;
+* Sobrecarga de métodos: métodos iguais com parametros diferentes que podem ter comportamentos diferentes;
+* Base do encapsulamento: no Java precisa ter gets e sets para classes com atributos privates, quando necessário;
+* Usa-se static para métodos e atributos de classe. 
 
 
 
