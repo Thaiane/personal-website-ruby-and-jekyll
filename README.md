@@ -1,148 +1,112 @@
-# Typing Jekyll Template
+# Hydejack
+[![Gem Version](https://badge.fury.io/rb/jekyll-theme-hydejack.svg)](https://badge.fury.io/rb/jekyll-theme-hydejack)
 
-**Typing Jekyll Template**, is a template for [Jekyll](http://jekyllrb.com) built especially for those who want to have a blog and pages quickly and lightly. Keep It Simple, my friend!
+**Hydejack** is a Jekyll theme with JavaScript powers, combining the best of static sites and modern web apps.
+It features a suite of JavaScript that makes the page feel like an app, without sacrificing backwards-compatibility,
+page-load speed or SEO.
 
-![Typing Jekyll Template](https://raw.githubusercontent.com/williamcanin/typing-jekyll-template/master/screenshot.png)
+> Your presence on the web — A [blog], a [portfolio] and a [resume].
 
-## Table of Contents
+**Hydejack** aims to be the complete package for professionals on the web.
+It features a blog suitable for both prose and technical documentation,
+a showcase for your projects, and a resume that fits with the rest of the design.
 
-* [Introduction](https://github.com/williamcanin/typing-jekyll-template/#introduction)
-* [Feature](https://github.com/williamcanin/typing-jekyll-template/#feature)
-* [Requeriments](https://github.com/williamcanin/typing-jekyll-template/#requeriments)
-* [Usage](https://github.com/williamcanin/typing-jekyll-template/#usage)
-* [Custom Appearance](https://github.com/williamcanin/typing-jekyll-template/#custom-appearance)
-* [Deploy](https://github.com/williamcanin/typing-jekyll-template/#deploy)
-* [Demo](https://github.com/williamcanin/typing-jekyll-template/#demo)
-* [Questions](https://github.com/williamcanin/typing-jekyll-template/#questions)
-* [Versions](https://github.com/williamcanin/typing-jekyll-template/#versions)
-* [License and Copyrights](https://github.com/williamcanin/typing-jekyll-template/#license-and-copyrights)
-* [Credits](https://github.com/williamcanin/typing-jekyll-template/#credits)
-
-## Introduction
-
-Its interface is part of the "Keep It Simple" philosophy, precisely to have a high performance in all types of browsers and mobile devices.
-
-You already have a template page for ‘Blog’, ‘Projects’, ‘Search’, ‘Contact’, ‘Tags’ and ‘Resume’, but you can leave as you want, modifying strings.
-
-The page ‘resume’, you can print using the browser’s Ctrl + P shortcut. The printout will use the Open Sans font and will delete useless parts such as sidebar. You’ll also have templates for posts, and you’ll have to follow model the header the post’s.
-
-The contact page uses the Formspree feature, you will need to have an account in the service and add your **e-mail** to the `_data / dbase.yml` file. In addition, the entire contents of the `_data / dbase.yml` file should be changed as needed.
-
-## Feature
-
-- [x] **Google Analytics (Event and Pageview)**
-- [x] **Google Fonts**
-- [x] **Jekyll Search on Blog Page**
-- [x] **Print page resume**
-- [x] **Avatar on sidebar and on Hello page**
-- [x] **404 Error Page**
-- [x] **Disqus [Accountant and Comments]**
-- [x] **Social buttons**
-
-**Used plugins**:
-
-* Vendors:
-    - jekyll-coffeescript
-    - jekyll-jsminify
-    - jekyll-paginate
-    - jekyll-gist
-    - jekyll-youtube
-    - jekyll-tagging
-    - jemoji
-    - jekyll-email-protect
-    - jekyll-spotify-plugin
-* From the project itself:
-    - Readingtime [Estimated reading time]
-    - Imager [Responsive Images]
-    - DateLang [Responsive Images]
-
-## Requeriments
-
-| Requerid        | How to check        | How to install  |
-| --------------- | ------------------- | -------------- | 
-| Git             | `git --version`     | [Git](http://git-scm.com/) |
-| Ruby            | `ruby -v`           | [Ruby](https://www.ruby-lang.org) |
-| Gem             | `gem -v`            | **Ruby** contains **Gem** |
-| Python          | `python --version`  | [Python](https://www.python.org/) |
-| Bundler         | `bundler -v`        | `gem install bundler` |
-
-## Usage
-
-1 - Cloning and entering the folder:
-
-```
-$ git clone https://github.com/williamcanin/typing-jekyll-template.git "typing-jekyll-template"
-$ cd "typing-jekyll-template"
-```
-
-2 - Downloading Gems and Jekyll dependencies for Typing:
-
-```
-$ bundle install
-```
-
-3 - Compiling project:
-
-```
-$ bundle exec jekyll b
-```
-
-4 - Starting Jekyll serve:
-
-```
-$ bundle exec jekyll s
-```
-
-**O.S Unix**
-
-If you use a Unix O.S, you can perform from step 2, all action through the `init.sh` file. Type it:
-
-```
-$ bash init.sh help
-```
-
-## Custom Appearance
-
-You can change the colors of **Typing Jekyll Template** by editing the `_sass/base/_variables.scss` file, using the values of the variables contained in it.
-
-If you want to change the font, change the values of the variables in the `_sass/base/_fonts.scss` file.
-
-I was forgetting ... there are some extra themes in the `_sass/base/_variables.scss` file disabled. You can leave only one theme, and uncomment the same. 
-
-Feel free to configure as you want. :)
-
-## Deploy
-
-Your site will be generated in the `_site` folder. Deploy these files to your hosting server.
-
-**Note:** Before deploying to the server, you have to edit the
-Variables: **url** and **baseurl** in the `_config.yml` file according to url Where your site is crooked. You can get more information on how to set up at: [Jekyll Configuration](https://jekyllrb.com/docs/configuration/#serve-command-options)
+![Screenshot](https://qwtel.com/assets/img/projects/default.jpg)
 
 ## Demo
+It's best to just [see it in action](https://qwtel.com/hydejack/).
 
-If you want to see the project in action, go here > [Demo](http://williamcanin.github.io/typing-jekyll-template/)
+## Features
+Both versions include *all* of these features:
 
-## Questions
+* Full in-app page loading, powered by [hy-push-state]
+* A customizable sidebar that turns into a drawer menu on mobile, powered by [hy-drawer]
+* Advanced FLIP animations, inspired by Material Design
+* Good [Google PageSpeed Score][gpss][^1]
+* Higher *perceived speed* thanks to content pre-fetching
+* [Syntax highlighting][syntax], powered by [Rouge]
+* [LaTeX math blocks][latex], powered by [KaTeX]
+* Change the wording of built-in strings and possibly translate in other languages
+* Support for categories and tags
+* Built-in icons for many social networks
+* Simple and semantic HTML — can be viewed even with text-based browsers
+* Author section below each article and support for multiple authors
+* Progressive enhancement — sacrifice features, not content
+* Google Analytics and Google Fonts support
+* Disqus comments
+* Print layout — Used to render Hydejack's [PDF documentation][pdf]
+* Blog layout via `jekyll-paginate` (optional)
+* SEO meta tags via `jekyll-seo-tag` (optional)
+* Github avatars via `jekyll-avatar` (optional)
+* Gist support via `jekyll-gist` (optional)
 
-Make your opinions on Typing Jekyll Template, in:
-[Typing Jekyll Template - Issues](https://github.com/williamcanin/typing-jekyll-template/issues)
+## Documentation
+Hydejack is well documented. You can read the docs [on the Jekyll site][docs], or [on GitHub][wiki], or [download the PDF][pdf].
 
-## Versions
+## Download
+There are two versions of **Hydejack**: The *free version* includes basic blogging functionality,
+as did previous versions of the theme.
+The *PRO version* includes additional features for professionals:
+A [portfolio], a [resume] layout and a [welcome] page to feature your favorite projects and posts.
 
-You can download the versions without making a clone with Git. Go to [Releases](https://github.com/williamcanin/typing-jekyll-template/releases)
+This table details what is and isn't included in each respective version.
 
-## License and Copyrights
+|                                     | Free               | PRO                |
+|:------------------------------------|:------------------:|:------------------:|
+| Blog                                | &#x2714;           | &#x2714;           |
+| [Features][feat]                    | &#x2714;           | &#x2714;           |
+| [Portfolio] Layout                  |                    | &#x2714;           |
+| [Resume] Layout                     |                    | &#x2714;           |
+| [Welcome] Layout                    |                    | &#x2714;           |
+| [Newsletter Box][news]              |                    | &#x2714;           |
+| [Custom Forms][forms]               |                    | &#x2714;           |
+| License                             | [GPL-3.0][license] | [PRO]              |
+| Price                               | Free               | $29                |
+|| [Download on GitHub][github]<br/> – or – <br/>[Use the RubyGem][gem] | [Buy Now][buy] [^2] |
 
-License: [MIT License (MIT)](https://opensource.org/licenses/MIT)
 
-Copyrights: William C. Canin | Copyright © 2017
+[^1]: Actual page load speed depends on your hosting provider, resolution of embedded images and usage of 3rd party plugins.  
+[^2]: Transactions secured by [Stripe](https://stripe.com). Downloads handled by [Simple Goods](https://simplegoods.co/).  
 
-*You can change the structure of Typing Jekyll Template as you wish, as long as you do not manipulate the copyrights of William C.Canin in the project*
+~~~
+ __  __                __                                     __
+/\ \/\ \              /\ \             __                    /\ \
+\ \ \_\ \   __  __    \_\ \      __   /\_\      __       ___ \ \ \/'\
+ \ \  _  \ /\ \/\ \   /'_` \   /'__`\ \/\ \   /'__`\    /'___\\ \ , <
+  \ \ \ \ \\ \ \_\ \ /\ \L\ \ /\  __/  \ \ \ /\ \L\.\_ /\ \__/ \ \ \\`\
+   \ \_\ \_\\/`____ \\ \___,_\\ \____\ _\ \ \\ \__/.\_\\ \____\ \ \_\ \_\
+    \/_/\/_/ `/___/> \\/__,_ / \/____//\ \_\ \\/__/\/_/ \/____/  \/_/\/_/
+                /\___/                \ \____/
+                \/__/                  \/___/
+~~~
 
-## Credits
+[blog]: https://qwtel.com/hydejack/blog/
+[portfolio]: https://qwtel.com/hydejack/variations/
+[resume]: https://qwtel.com/hydejack/resume/
+[download]: https://qwtel.com/download/
+[welcome]: https://qwtel.com/hydejack/
+[forms]: https://qwtel.com/hydejack/docs/7.3.0/forms-by-example/
 
-* Name: William C. Canin 
-* Country: Brazil - SP
-* EMail: william.costa.canin@gmail.com    
-* GitHub: [William Canin](http://github.com/williamcanin)
-* Home page: [William Canin](http://williamcanin.github.com)
+[feat]: https://qwtel.com/hydejack/#features
+[news]: https://qwtel.com/hydejack/#newsletter-subscription-box
+[syntax]: https://qwtel.com/hydejack/#syntax-highlighting
+[latex]: https://qwtel.com/hydejack/#latex-math-blocks
+
+[license]: LICENSE.md
+[pro]: licenses/PRO.md
+[docs]: docs/7.3.0/index.md
+
+[github]: https://github.com/qwtel/hydejack/releases
+[gem]: https://rubygems.org/gems/jekyll-theme-hydejack
+[buy]: https://app.simplegoods.co/i/AQTTVBOE
+
+[gpss]: https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fqwtel.com%2Fhydejack%2F
+[wiki]: https://github.com/qwtel/hydejack/blob/master/docs/7.3.0/index.md
+[pdf]: https://github.com/qwtel/hydejack/releases/download/v7.3.0/Documentation._.Hydejack.pdf
+[hy-push-state]: https://qwtel.com/hy-push-state/
+[hy-drawer]: https://qwtel.com/hy-drawer/
+[rouge]: http://rouge.jneen.net
+[katex]: https://khan.github.io/KaTeX/
+[tinyletter]: https://tinyletter.com/
+
+*[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations.
