@@ -36,8 +36,8 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <Thaiane> <Braga>
+  email:               <thaianefbraga@gmail.com>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
