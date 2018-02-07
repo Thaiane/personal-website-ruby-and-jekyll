@@ -7,7 +7,6 @@
     picture: "https://placehold.it/126x126"
     email: "thaiane.braga@gmail.com"
     phone: "(61) 99315-2512"
-    website: "https://richardhendricks.com"
     summary: |
       Olá.
     location:
@@ -27,9 +26,9 @@
         url: "https://soundcloud.com/dandymusicnl"
   work:
     -
-      company: "Pied Piper"
-      position: "CEO/President"
-      website: "https://piedpiper.com"
+      company: "ThoughtWorks"
+      position: "Consultora de  Desenvolvimento"
+      website: "https://www.thoughtworks.com/"
       startDate: "2013-12-01"
       endDate: ""
       summary: >
@@ -52,12 +51,9 @@
         - "Awarded 'Teacher of the Month'"
   education:
     -
-      institution: "University of Oklahoma"
-      area: "Information Technology"
-      studyType: "Bachelor"
-      startDate: "2011-06-01"
-      endDate: "2014-01-01"
-      gpa: "4.0"
+      institution: "Universidade de Brasília"
+      area: "Engenheria de Software"
+      endDate: "2016-06-06"
       courses:
         - "DB1101 - Basic SQL"
         - "CS2011 - Java Introduction"
