@@ -5,9 +5,10 @@ description: Um site sobre estudos, projetos, programação, engenharia de softw
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Hey, sou a Thai Braga :)
-user_description: Sou apaixonada por programação e agilidade. Sempre tenho interesse em saber mais sobre arquitetura, qualidade, técnicas e outros temas que me ajudam a melhorar continuamente como engenheira de software. Atualmente meu tema de estudo preferido é segurança da informação e estou ficando paranóica com tanta informação interessante nesse mundo recém descoberto.
-user_description_hobbies: Entusiasta do Software Livre, ávida por literatura (Isaac Asimov e Jk Rowling <3) e patinadora nas horas livres. Penso que é dever de todos garantir uma sociedade mais justa para mulheres, negros, LGBTs e outras minorias de poder (que no fim, são muitas vezes a maioria em número nesse país).
+username: Thai Braga
+user_title: Engenheira de Software
+user_description: Sou apaixonada por programação e agilidade. Sempre tenho interesse em saber mais sobre arquitetura, qualidade, técnicas e tualmente meu tema de estudo preferido é segurança da informação e estou ficando paranóica com tanta informação interessante nesse mundo recém descoberto.
+user_description_hobbies: Entusiasta do Software Livre, ávida por literatura e patinadora nas horas livres. Penso que é dever de todos garantir uma sociedade mais justa para mulheres, negros, LGBTs e outras minorias de poder (que no fim, são muitas vezes a maioria em número nesse país).
 email: thaianefbraga@gmail.com
 github_username:  Thaiane
 
