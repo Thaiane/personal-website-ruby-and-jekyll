@@ -15,12 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Thai Braga
 email: thaianefbraga@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Sou apaixonada por programação e agilidade. Sempre tenho interesse em saber mais sobre arquitetura, 
-  qualidade, técnicas e tualmente meu tema de estudo preferido é segurança da informação 
-  e estou ficando paranóica com tanta informação interessante nesse mundo recém descoberto.
+description: # this means to ignore newlines until "baseurl:"
+  Um pouco de mim...
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "thaibraga.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ThaiiBraga
 github_username: Thaiane
 
