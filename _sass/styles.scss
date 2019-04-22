@@ -6,6 +6,10 @@ body {
   margin: 0;
   font: normal 100% Arial, Helvetica, sans-serif;
 }
+.th2 {
+  font-style: normal;
+  font-weight: normal;
+}
 canvas {
   display: block;
   vertical-align: bottom;
@@ -50,4 +54,8 @@ canvas {
 }
 .count-particles {
   border-radius: 0 0 3px 3px;
+}
+
+.tech {
+  margin: 10px;
 }
