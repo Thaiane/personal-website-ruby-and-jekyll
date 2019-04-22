@@ -5,11 +5,28 @@
 body {
   margin: 0;
   font: normal 100% Arial, Helvetica, sans-serif;
+  text-align: justify;
 }
-.th2 {
-  font-style: normal;
-  font-weight: normal;
+
+.flex-container {
+  display: flex;
 }
+
+.flex-container h5 {
+  text-align: center;
+}
+.flex-container p{
+  text-align: center;
+}
+
+h2, h3, h4, h5 {
+  color: #17074b;
+}
+
+.header-general {
+  color: #f7f3f3
+}
+
 canvas {
   display: block;
   vertical-align: bottom;
@@ -18,7 +35,7 @@ canvas {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-color: #120a2e;
+  background-color: #1b113f;
   background-image: url("");
   background-repeat: no-repeat;
   background-size: cover;
@@ -58,4 +75,9 @@ canvas {
 
 .tech {
   margin: 10px;
+}
+
+#skills {
+  text-align: center;
+  color: #17074b;
 }
