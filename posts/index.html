@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Textos
+title: Artigos
 ---
 
 {% for post in paginator.posts %}
@@ -37,11 +37,11 @@ title: Textos
   {% if paginator.previous_page %}
   <a class="btn btn-primary float-left"
     href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Novos<span
-      class="d-none d-md-inline"> Textos</span></a>
+      class="d-none d-md-inline"> Artigos</span></a>
   {% endif %} {% if paginator.next_page %}
   <a class="btn btn-primary float-right"
     href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Anteriores<span
-      class="d-none d-md-inline"> Textos</span> &rarr;</a>
+      class="d-none d-md-inline"> Artigos</span> &rarr;</a>
   {% endif %}
 </div>
 
