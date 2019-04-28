@@ -2,3 +2,15 @@ language: ruby
 rvm:
  - 2.4.2
  - jruby
+cache:
+- bundler
+before_script:
+- bundle install
+- bundle exec jekyll serve
+deploy:
+  provider: heroku
+  api_key:
+    secure: KEY
+  app: dry-plateau-43513
+  on:
+    repo: thaiane/personal-site
